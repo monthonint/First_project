@@ -25,7 +25,7 @@ export default {
 
 <style scoped>
 #nav-bar{
-  background-color: #7c4dff; 
+  background-color: #7c4dff;
 }
 #list-botton{
   color: #e6e6e6;
