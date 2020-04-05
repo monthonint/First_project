@@ -14,7 +14,11 @@
     "bootstrap": "^4.4.1",
     "bootstrap-vue": "^2.10.1",
     "vue": "^2.6.11",
-    "vue-router": "^3.0.1"
+    "vue-router": "^3.0.1",
+    "js-yaml": "^3.13.1",
+    "mem": "^4.0.0",
+    "serialize-javascript": "^2.1.1",
+    "kind-of": "^6.0.3"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
