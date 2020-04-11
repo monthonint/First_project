@@ -4,8 +4,8 @@
     <nav-file/>
     <!-- <h1>Employees</h1>
     <employee-table v-bind:employees="employees"/>
-      <img src="./assets/logo.png">
-    <router-view/> -->
+      <img src="./assets/logo.png"> -->
+    <router-view/>
   </div>
 </template>
 <script>
